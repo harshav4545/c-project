@@ -1,4 +1,8 @@
 main() {
-	biggest3();
-	factorial();
+        biggest3();
+        factorial();
+        fibonacci();
+        palindrome();
+        reverse();
+        sum();
 }
